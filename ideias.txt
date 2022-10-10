@@ -1,0 +1,3 @@
+fazer com que depois que a cobra morra, o esqueleto dela volte como obstaculo. 
+se possivel colocar outros objetos para ganhar pontos (chapeu que triplica pontos p.e)
+selecionar um tema de halloween 
